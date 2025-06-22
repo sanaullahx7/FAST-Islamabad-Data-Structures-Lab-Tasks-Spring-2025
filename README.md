@@ -1,6 +1,7 @@
 # Data Structures Lab
 
-This repository contains a collection of lab assignments and implementations related to **Data Structures**. The purpose of these labs is to reinforce core concepts through hands-on coding practice.
+This repository contains a collection of lab assignments and implementations related to **Data Structures**. 
+The purpose of these labs is to reinforce core concepts through hands-on coding practice.
 
 ## 📘 Topics Covered
 
