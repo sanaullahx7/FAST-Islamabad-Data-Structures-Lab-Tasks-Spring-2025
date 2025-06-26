@@ -3,7 +3,7 @@
 This repository contains a collection of lab assignments and implementations related to **Data Structures**. 
 The purpose of these labs is to reinforce core concepts through hands-on coding practice.
 
-## 📘 Topics Covered
+# 📘 Topics Covered
 
 - Arrays and Strings
 - Linked Lists (Singly, Doubly, Circular)
@@ -15,7 +15,7 @@ The purpose of these labs is to reinforce core concepts through hands-on coding 
 - Hash Tables
 - Heaps and Priority Queues
 
-## 💻 Programming Language
+# 💻 Programming Language
 
 The labs are implemented in C++
 
