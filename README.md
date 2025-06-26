@@ -17,6 +17,6 @@ The purpose of these labs is to reinforce core concepts through hands-on coding 
 
 ## 💻 Programming Language
 
-The labs are implemented in **C++**  
+The labs are implemented in C++
 
 
